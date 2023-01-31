@@ -1,6 +1,6 @@
 {
   "name": "nestjs-dataprotection",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/engcfraposo/nestjs-dataprotection",
   "description": "O módulo de Proteção de Dados é responsável por ocultar informações pessoais sensíveis presentes em objetos de dados. É importante para garantir a privacidade dos usuários e cumprir regulamentações de proteção de dados.",
   "main": "dist/index.js",
@@ -17,8 +17,8 @@
   },
   "keywords": [
     "nestjs",
-    "cep",
-    "viacep"
+    "lgpd",
+    "dataprotection"
   ],
   "author": "engcfraposo",
   "license": "MIT",
